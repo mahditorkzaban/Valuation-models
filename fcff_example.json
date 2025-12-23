@@ -1,0 +1,16 @@
+{
+  "model_type": "fcff_dcf",
+  "inputs": {
+    "ebit_projections": [120, 135, 152, 171, 192],
+    "tax_rate": 0.21,
+    "da_projections": [25, 28, 31, 35, 39],
+    "capex_projections": [30, 33, 37, 41, 46],
+    "nwc_change_projections": [8, 9, 10, 11, 12],
+    "wacc": 0.095,
+    "terminal_growth": 0.025,
+    "net_debt": 450,
+    "minority_interest": 15,
+    "investments": 50,
+    "diluted_shares": 75
+  }
+}
