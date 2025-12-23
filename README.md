@@ -11,8 +11,8 @@ JSON based input for full reproducibility
 14+ valuation model implemented
 Suitable for finance, consulting, PE, IB, and academic use
 
->  **Source code is kept private**.  
-> This repository is designed to demonstrate functionality, architecture, and outputs — not to distribute proprietary logic.
+  **Source code is kept private**.  
+ This repository is designed to demonstrate functionality, architecture, and outputs — not to distribute proprietary logic.
 
 ## Supported Valuation Models
 
