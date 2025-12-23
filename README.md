@@ -1,15 +1,14 @@
 # Valuation Engine (Executable)
 
-A production-quality **financial valuation engine** supporting multiple industry-standard valuation models, designed for **DCF, relative valuation, asset-based valuation, and advanced use cases**.
+A production quality **financial valuation engine** supporting multiple industrystandard valuation models, designed for **DCF, relative valuation, asset based valuation, and advanced use cases**.
 
-This repository provides a **ready-to-run executable** with **JSON-driven inputs**, allowing users to run professional valuation models **without access to the source code**.
+This repository provides a **ready to run executable** with **JSON driven inputs**, allowing users to run professional valuation models **without access to the source code**.
 
----
 
 ## Key Features
 Executable valuation engine no Python knowledge required)
-JSON-based inputs for full reproducibility
-14+ valuation models implemented
+JSON based input for full reproducibility
+14+ valuation model implemented
 Suitable for finance, consulting, PE, IB, and academic use
 
 >  **Source code is kept private**.  
@@ -17,26 +16,26 @@ Suitable for finance, consulting, PE, IB, and academic use
 
 ## Supported Valuation Models
 
-- **FCFF DCF** – Free Cash Flow to Firm
-- **FCFE DCF** – Free Cash Flow to Equity
-- **Dividend Discount Model (DDM)** – Single & Multi-stage
+ **FCFF DCF** – Free Cash Flow to Firm
+ **FCFE DCF** – Free Cash Flow to Equity
+ **Dividend Discount Model (DDM)** – Single & Multistage
 
 ### Relative Valuation (Multiples)
-- P/E
-- EV / EBITDA
-- EV / Sales
-- P/B
-- PEG Ratio
+ P/E
+ EV / EBITDA
+ EV / Sales
+ P/B
+ PEG Ratio
 
-### Asset-Based Valuation
-- Book Value
-- Adjusted Book Value
-- Liquidation Value
+### AssetBased Valuation
+ Book Value
+ Adjusted Book Value
+ Liquidation Value
 
 ### Advanced / Special Models
-- **Real Options** (Black-Scholes)
-- **Sum of the Parts (SOTP)**
-- **LBO IRR Analysis**
+ **Real Options** (BlackScholes)
+ **Sum of the Parts (SOTP)**
+ **LBO IRR Analysis**
 
 
 ## How to Use
@@ -50,4 +49,4 @@ chmod +x Valuation
 ```
 
 The engine will:
-	Load the JSON inputs/ Validate assumptions/ Run the selected valuation model/ Print professional-grade results to the terminal
+	Load the JSON inputs/ Validate assumptions/ Run the selected valuation model/ Print professionalgrade results to the terminal
