@@ -16,9 +16,9 @@ Suitable for finance, consulting, PE, IB, and academic use
 
 ## Supported Valuation Models
 
- **FCFF DCF** – Free Cash Flow to Firm
- **FCFE DCF** – Free Cash Flow to Equity
- **Dividend Discount Model (DDM)** – Single & Multistage
+ **FCFF DCF** Free Cash Flow to Firm
+ **FCFE DCF** Free Cash Flow to Equity
+ **Dividend Discount Model (DDM)** Single & Multistage
 
 ### Relative Valuation (Multiples)
  P/E
